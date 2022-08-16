@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "commonjs-variables-for-esmodules": "^1.1.0"
+  }
+}
